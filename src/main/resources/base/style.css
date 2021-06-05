@@ -1,0 +1,30 @@
+QWidget {
+    background-color: #00223D;
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+QPushButton#create_note_button {
+    border: 0;
+    background-color: rgb(111, 101, 255);
+    border-radius: 4px;
+    color: white;
+    padding: 10px 0 10px 0;
+}
+
+QPushButton#create_note_button:hover {
+    border-bottom: 3px solid #707070;
+}
+
+QPushButton#create_note_button:pressed {
+    border-bottom: 1px #707070 solid;
+}
+
+QListWidget::item {
+
+}
+
+QListWidget::item:selected {
+    background-color: rgb(111, 101, 255);
+    color: white;
+}
