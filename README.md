@@ -5,4 +5,4 @@ It is an implementation of the exercise from the course [Create 5 applications w
 
 # Example
 
-Interface ![pynotes example](https://github.com/Cardiox12/PyNotes/blob/master/examples/PyNotes_Example.png?raw=true)
+![pynotes example](https://github.com/Cardiox12/PyNotes/blob/master/examples/PyNotes_Example.png?raw=true)
